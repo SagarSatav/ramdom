@@ -33,7 +33,7 @@ export default function FinalScreen({ ...motionProps }) {
                     animate={{ scale: 1, opacity: 1 }}
                     transition={{ delay: 0.3 }}
                 >
-                    <div><img src="/ramdomSS.github.io/gifs/us.gif" alt="us gif" className="w-48" /></div>
+                    <div><img src="/images/us.gif" alt="us gif" className="w-48" /></div>
                 </motion.div>
 
                 <motion.h2

@@ -25,7 +25,7 @@ export default function MemoriesScreen({ onNext, ...motionProps }) {
                 transition={{ delay: 0.3 }}
                 className="mb-6 flex justify-center"
             >
-                <div className="mb-4"><img src="/ramdomSS.github.io/gifs/cute.gif" alt="cute gif" className="w-48" /></div>
+                <div className="mb-4"><img src="/images//cute.gif" alt="cute gif" className="w-48" /></div>
             </motion.div>
 
             <motion.p
