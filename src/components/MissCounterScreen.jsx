@@ -46,7 +46,7 @@ export default function MissCounterScreen({ onNext, ...motionProps }) {
           animate={{ scale: 1 }}
           transition={{ delay: 0.3 }}
         >
-          <div className="mb-4"><img src="/gifs/crying.gif" alt="cry gif" className="w-48" /></div>
+          <div className="mb-4"><img src="/ramdomSS.github.io/gifs/crying.gif" alt="cry gif" className="w-48" /></div>
         </motion.div>
 
         <motion.h2
