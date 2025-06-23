@@ -33,7 +33,7 @@ export default function MessageScreen({ onNext, ...motionProps }) {
                     animate={{ scale: 1, opacity: 1 }}
                     transition={{ delay: 0.3 }}
                 >
-                    <div className=""><img src="/images/writing.gif" alt="writing gif" className="w-48" /></div>
+                    <div className=""><img src="images/writing.gif" alt="writing gif" className="w-48" /></div>
                 </motion.div>
 
                 <motion.div

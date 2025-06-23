@@ -13,7 +13,7 @@ export default function WelcomeScreen({ onNext, ...motionProps }) {
                     transition={{ delay: 0.3}}
                     className="mb-8 flex justify-center"
                 >
-                    <div className="mb-4"><img src="/images/hey.gif" alt="hey gif" className="w-48" /></div>
+                    <div className="mb-4"><img src="images/hey.gif" alt="hey gif" className="w-48" /></div>
                 </motion.div>
 
                 <motion.h1
